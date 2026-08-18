@@ -42,3 +42,6 @@ Clone the repository and experiment freely. Nothing here affects production code
 
 - Note 14: whitespace
 - 
+
+- Note 15: trailing lines
+- 
