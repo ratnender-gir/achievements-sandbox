@@ -45,3 +45,6 @@ Clone the repository and experiment freely. Nothing here affects production code
 
 - Note 15: trailing lines
 - 
+
+- Note 16: final polish
+- 
