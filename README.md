@@ -36,3 +36,6 @@ Clone the repository and experiment freely. Nothing here affects production code
 
 - Note 12: punctuation
 - 
+
+- Note 13: capitalisation
+- 
