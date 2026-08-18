@@ -33,3 +33,6 @@ Clone the repository and experiment freely. Nothing here affects production code
 
 - Note 11: list order
 - 
+
+- Note 12: punctuation
+- 
