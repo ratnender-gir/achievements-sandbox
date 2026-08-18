@@ -21,3 +21,6 @@ Clone the repository and experiment freely. Nothing here affects production code
 
 - Note 7: typo fix
 - 
+
+- Note 8: link check
+- 
