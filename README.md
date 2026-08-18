@@ -12,3 +12,6 @@ Clone the repository and experiment freely. Nothing here affects production code
 
 - Note 4: docs tweak
 - 
+
+- Note 5: wording fix
+- 
