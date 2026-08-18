@@ -30,3 +30,6 @@ Clone the repository and experiment freely. Nothing here affects production code
 
 - Note 10: heading tidy
 - 
+
+- Note 11: list order
+- 
