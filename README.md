@@ -39,3 +39,6 @@ Clone the repository and experiment freely. Nothing here affects production code
 
 - Note 13: capitalisation
 - 
+
+- Note 14: whitespace
+- 
