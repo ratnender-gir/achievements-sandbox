@@ -18,3 +18,6 @@ Clone the repository and experiment freely. Nothing here affects production code
 
 - Note 6: formatting
 - 
+
+- Note 7: typo fix
+- 
