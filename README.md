@@ -15,3 +15,6 @@ Clone the repository and experiment freely. Nothing here affects production code
 
 - Note 5: wording fix
 - 
+
+- Note 6: formatting
+- 
