@@ -27,3 +27,6 @@ Clone the repository and experiment freely. Nothing here affects production code
 
 - Note 9: spacing
 - 
+
+- Note 10: heading tidy
+- 
