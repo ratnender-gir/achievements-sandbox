@@ -9,3 +9,6 @@ Clone the repository and experiment freely. Nothing here affects production code
 
 - Note 3: cleanup pass
 - 
+
+- Note 4: docs tweak
+- 
