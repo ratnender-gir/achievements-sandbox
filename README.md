@@ -24,3 +24,6 @@ Clone the repository and experiment freely. Nothing here affects production code
 
 - Note 8: link check
 - 
+
+- Note 9: spacing
+- 
